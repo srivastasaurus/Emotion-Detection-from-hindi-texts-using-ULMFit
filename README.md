@@ -6,11 +6,11 @@ In this project I will showcase a ULMFiT model and use it for Emotion Detection.
 
 Transfer learning is the technique of using weights from a pre-trained deep neural network and tweaking them a bit to suit our application. In other words, it is applying the knowledge of an already trained model to a different but related problem.
 It is suited to applications having a small dataset and also reduces computation time.
+  - https://en.wikipedia.org/wiki/Transfer_learning
 
 # What is ULMFit
 
 ULMFiT stands for Universal Language Model Fine-tuning for Text Classification, a technique introduced by Jeremy Howardand Sebastian Ruder. It is a technique to incorporate transfer learningin NLP tasks.
-  - https://en.wikipedia.org/wiki/Transfer_learning
   - https://arxiv.org/abs/1801.06146
   
 USPs of ULMFiT is-
